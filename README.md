@@ -22,10 +22,6 @@ SQL injection attacks are staged by sending malicious SQL commands to database s
  
  <img src="https://i.imgur.com/zLVshfy.png">
  
- ------------------------------------------
- 
-<img src="https://i.imgur.com/pzY1uTO.png">
-
 ## How would you prevent script injections? <span id="2"></span>
 To avoid SQL injection flaws is simple. Developers need to either: a) stop writing dynamic queries; and/or b) prevent user supplied input which contains malicious SQL from affecting the logic of the executed query.
 
